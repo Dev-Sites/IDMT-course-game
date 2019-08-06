@@ -1,1 +1,2 @@
-# IDMT-course-game
+# Initial page
+
